@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Webflow
-feature-img: "img/sample_feature_img.png"
+title: BlocNull
+feature-img: "void.png"
 thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/1686132/webflow_landingpage_1x.jpg"
-short-description: BlocJams for iOS is awesome!
+short-description: Code into the void and the void codes back
 
 ---
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+Im just kidding guys, i am holding space for an eventual new project while making a dumb joke ! coool !!
