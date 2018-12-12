@@ -9,7 +9,7 @@ Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. K
 
 <form action="https://getsimpleform.com/messages?form_api_token=16c1703bdd5e1836ba5e9813d7bfa4c3" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='https://professionalzack.github.io/thank-you' />
+  <input type='hidden' name='redirect_to' value='https://yrrollbot.club/thank-you' />
   <!-- all your input fields here.... -->
   <input type='text' name='test' />
   <input type='submit' value='Test form' />
