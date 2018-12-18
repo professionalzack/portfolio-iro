@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Feature images
+title: Assembling the Bot
 feature-img: "img/sample_feature_img.png"
 ---
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+***But what does this bot even do??***
+Let’s say that in the course of investigating a hounted house, you and the gang find out it was actually just Granite Whitmore wearing a sheet. But who’s Granite Whitmore?? If you (or your Dungeonmaster) have been keeping up with adding NPC information to the Roll-O-Dex, you can simply open discord and type !npc get Granite Whitmore, and the Roll-O-Dex will reply with whatever notes you (or anyone on your Discord server) originally entered. 
+***Assembling your Bot***
+While I did do some research ahead of time for this project, I relied heavily on trial-and-error, something you will not have to do, because I have already made all the errors for you. There is a lot of information out there on how to build something like what I built, but very little on how to build exactly what I built, so I took pieces from everywhere, jammed them together, and then tried my best to smooth them out afterwards. In fact, there is still plenty of room for improvement, and the project is open-sourced, so feel free to suggest changes or help fix issues if that is your thing! And you can always edit the content of your Roll-O-Dex-clone: if you want to add, remove, or change any of the commands in your own bot, I can’t stop you. But if you want to simply use the way I have been in my game group, that is just as fine. Either way, grab yourself a GitHub account if you don’t already have one, and follow the link below for instructions on how to build and use your very own table-top-role-playing non-player-character database-bot for Discord. 
